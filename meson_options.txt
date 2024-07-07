@@ -1,0 +1,1 @@
+option('soyuz-bgrt', type: 'boolean', value: true, description:'build soyuz-bgrt plymouth-theme (default)')
