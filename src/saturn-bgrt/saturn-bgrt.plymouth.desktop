@@ -1,12 +1,12 @@
 [Plymouth Theme]
-Name=Soyuz BGRT
-Description=Soyuz OS spinner theme using the ACPI BGRT graphics as background
+Name=Saturn BGRT
+Description=Saturn's spinner theme using the ACPI BGRT graphics as background
 ModuleName=two-step
 
 [two-step]
 Font=Ubuntu 12
 TitleFont=Ubuntu Light 30
-ImageDir=@PLYMOUTH_THEME_PATH@/soyuz-bgrt
+ImageDir=@PLYMOUTH_THEME_PATH@/saturn-bgrt
 DialogHorizontalAlignment=.5
 DialogVerticalAlignment=.7
 TitleHorizontalAlignment=.5

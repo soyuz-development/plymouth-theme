@@ -1,5 +1,5 @@
 plymouth_themes = [
-  'soyuz-bgrt',
+  'saturn-bgrt',
 ]
 
 foreach plymouth_theme: plymouth_themes

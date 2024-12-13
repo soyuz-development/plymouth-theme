@@ -1,4 +1,4 @@
-project('plymouth-theme-soyuz',
+project('plymouth-theme-saturn',
   meson_version: '>= 0.61',
   version: '0.0.8',
   license : 'GPL3',
